@@ -1,0 +1,13 @@
+To run this code, you will need to prepare your development environment by installing the Android SDK and setting up an emulator or device to run the code on. You can follow these steps to set up your environment and run the test:
+
+Install the Android SDK by following the instructions on the Android developer website: https://developer.android.com/studio
+
+Set up an emulator or connect a physical Android device to your computer
+
+Open the Android Studio IDE and create a new project
+
+Add the code to open the calculator app and perform the test to the appropriate file in the project
+
+Build and run the project on the emulator or device
+
+Please note that this code is for reference only and may not work as-is on an Android device. It is intended to show the general idea of how to open the native calculator app and perform a simple test to add two numbers and verify the result.
